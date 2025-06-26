@@ -17,7 +17,7 @@ title: Добро пожаловать!
 ## ✍️ Первый пост
 
 Смотри мой первый пост здесь:  
-📄 (https://sergej-kotelnikov.github.io/My-pages/_posts/2025-06-26-first-post.md)
+📄 [Смотреть пост](https://sergej-kotelnikov.github.io/My-pages/2025/06/26/first-post/)
 
 ---
 
